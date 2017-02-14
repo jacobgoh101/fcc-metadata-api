@@ -1,0 +1,25 @@
+{
+  "name": "fcc-metadata-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jacobgoh101/fcc-metadata-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jacobgoh101/fcc-metadata-api/issues"
+  },
+  "homepage": "https://github.com/jacobgoh101/fcc-metadata-api#readme",
+  "dependencies": {
+    "express": "4.14.1",
+    "multer": "1.3.0",
+    "node-delete": "0.1.2",
+    "pug": "2.0.0-beta11"
+  }
+}
